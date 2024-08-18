@@ -524,6 +524,8 @@ body > .scroll-to-top > a:hover {
 }
 .footer > p > span {
 	color: var(--primaryColor);
+	font-family: monospace;
+	font-size: 20px;
 	font-weight: 700;
 }
 /* Footer Section Styling End */
